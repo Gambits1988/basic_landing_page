@@ -88,11 +88,11 @@ a:active {
 
 .section-three {
     background: white;
-    border: 4px solid black;
     display: flex;
     align-items: center; /* Centers items vertically within .section-three */
     justify-content: center;
     flex-direction: column;
+    margin: 100px;
 }
 .random-information {
     color: black;
@@ -105,3 +105,32 @@ a:active {
     margin: 20px;
 }
 
+/* ------------------------------------------------------------------------------------- */
+
+.section-four {
+    font-style:italic;
+    font-size: 35px;
+    background: rgb(183, 183, 183);
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.sub-section2 {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.thor {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    margin-top: 5px;
+    position: relative;
+    left: 250px;
+    white-space: nowrap;
+}
