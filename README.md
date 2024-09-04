@@ -1,15 +1,10 @@
 # basic_landing_page
 TOP - Project Landing Page Assignment
 
-Monsoon season over New Mexico image source -
-https://unsplash.com/photos/a-lightning-storm-is-seen-in-the-distance-T98s6zpo4FQ
-Raychel Sanner - Available for hire
-https://unsplash.com/@raychelsnr
-
 Ravens Huginn and Muninn image source - 
 https://mythicalcreatures.info/characters/huginn-and-muninn/
 
-Small Image One: - 
+Small Image One: Ravens - 
 https://stock.adobe.com/search/images?k=huginn&asset_id=672345811
 
 Small Image Two: Sacred celtic symbols - 
