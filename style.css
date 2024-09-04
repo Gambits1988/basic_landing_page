@@ -165,7 +165,6 @@ a:hover {
 
 .section-five {
     background: rgb(52, 118, 250);
-    border: 4px solid black;
     border-radius: 10px;
     display: flex;
     flex-direction: column;
